@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC1tXVKM49Yp5Dhj8WIjmPHi5IIJG_LUdE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>916649762442</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shahsinvestment.shahsapp</string>
+	<key>PROJECT_ID</key>
+	<string>shahs-investments</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shahs-investments.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:916649762442:ios:55ae5ead8ff3d58f285773</string>
+</dict>
+</plist>

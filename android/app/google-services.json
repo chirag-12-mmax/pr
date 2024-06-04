@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916649762442",
+    "project_id": "shahs-investments",
+    "storage_bucket": "shahs-investments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916649762442:android:cbb1a5c1a8747afc285773",
+        "android_client_info": {
+          "package_name": "com.shahsinvestment.shahsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHDYNt5s0fd7uM8CBcm8TdNdoZ4tetNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
